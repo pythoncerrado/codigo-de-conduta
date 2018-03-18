@@ -1,6 +1,6 @@
-# Código de Conduta do Evento Python Brasil
+# Código de Conduta do Evento Python Cerrado
 
-O evento Python Brasil é um ambiente amistoso, de boa convivência, inclusivo e livre de intimidação, onde todas as pessoas são bem-vindas e a civilidade é exigida.
+O evento Python Cerrado é um ambiente amistoso, de boa convivência, inclusivo e livre de intimidação, onde todas as pessoas são bem-vindas e a civilidade é exigida.
 
 Com esta finalidade, a organização do evento conta com uma Equipe de Resposta que atua para garantir um ambiente com essas qualidades.
 
@@ -24,9 +24,15 @@ Havendo um relato de violação destes princípios, a Equipe de Resposta realiza
 
 ---
 
-# Python Brasil Code of Conduct
+Este Código de Conduta baseia-se no [Código de Conduta do Evento Python Brasil](https://github.com/pythonbrasil/codigo-de-conduta) podendo ser alterado e melhorado independentemente do original.
 
-Python Brasil conference is a friendly, inclusive and harassment-free environment where everyone is welcome and where civility is compulsory.
+---
+
+---
+
+# Python Cerrado Code of Conduct
+
+Python Cerrado conference is a friendly, inclusive and harassment-free environment where everyone is welcome and where civility is compulsory.
 
 Conference organizers offer a Response Team acting in order to guarantee such an environment.
 
@@ -46,3 +52,7 @@ The target audience of the conference also includes children and adolescents thu
 If you feel harassed, discriminated or humiliated, or if you witnessed any of these behaviors, please contact the Response Team.
 
 In face of any allegation of violation of these principles, the Response Team will examine and consider the case in order to take action to ensure that such events will not happen again. These actions might take the form of a conversation to reconcile the parts, an invitation to leave the event indefinitely or any other form to keep up with the values stated in this Code of Conduct.
+
+---
+This Code of Conduct is based on Python Brasil Code of Conduct and may be altered or improved regardless of it’s original.
+---
